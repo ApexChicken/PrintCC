@@ -2,4 +2,4 @@
 
 If you intend to copy the code or remix it in some way, that you provide credit to me. Thanks!
 
-*BTW I do not claim to be an expert programmer
+*BTW I do not claim to be an expert programmer.
