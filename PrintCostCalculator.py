@@ -1,4 +1,4 @@
-#Made by the developer
+#Made by ApexChicken on Github
 
 import tkinter as tk
 from tkinter import messagebox
