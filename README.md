@@ -13,25 +13,25 @@ PrintCC was made several months before this repository was created, but I realiz
 # The Numbers
 The current equation for calculating the price is as follows:
 
-C = ((u/a) * f  + t * r + d * m) * (1+p)
+C = ((_u_/_a_) * _f_  + _t_ * _r_ + _d_ * _m_) * (1+_p_)
 
-C = cost
+_C_ = cost
 
-u = filament used
+_u_ = filament used
 
-a = filament amount bought
+_a_ = filament amount bought
 
-f = filament cost
+_f_ = filament cost
 
-t = print time
+_t_ = print time
 
-r = print rate
+_r_ = print rate
 
-d = model design time
+_d_ = model design time
 
-m = model design rate
+_m_ = model design rate
 
-p = profit margin
+_p_ = profit margin
 
 You can probably tell why each variable goes in that spot, but if theres an error in the equation, let me know! The equation may change if more variables are added.
 
