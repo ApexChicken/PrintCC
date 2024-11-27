@@ -1,3 +1,14 @@
+#NOTICE
+
+I have discontinued my work on printCC, as it did not meet the exepectations I had hoped to achieve, and I could not find a way to move forward on said goals.
+For anyone who may find this useful, feel free to take the software (code or program), and customize it to your satisfaction, just please credit me in any public usage.
+Thank you for using PrintCC.
+
+
+
+
+
+
 # Welcome to PrintCC!
 
 👋 Welcome to PrintCC! This is an open-source, simple Python program I have made to help people simplify the process of finding the costs of 3D-printed parts. The project attempts to be very 'modular' and easy to use. It is currently in its early versions and may be for some time.
